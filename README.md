@@ -1,4 +1,9 @@
+
+
+
 *Project: Full Ecommerce API with authentication*
+
+
 
 *Dependencies: node, Express, nodemon, dotenv, jsonwebtoken, mongoose*
 
@@ -9,6 +14,8 @@
 *2. after login please add the "accessToken" as “token” key in request header for all request.*
 
 *3. login with email and password.*
+
+**live link: <https://ecom-jyeo.onrender.com/api/products/>**
 
 
 **Registration and Login**
